@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Yıldızlı Gece",
+    "story": "Vincent van Gogh'un en ünlü tablolarından biri.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/The_Starry_Night.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mona Lisa",
+    "story": "Leonardo da Vinci'nin başyapıtı.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg"
+  }
+]
